@@ -1,3 +1,5 @@
 <script></script>
-<template></template>
+<template>
+    <h1> Coming soon</h1>
+</template>
 <style></style>
